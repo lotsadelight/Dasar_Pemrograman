@@ -1,0 +1,1 @@
+print("Tidak valid")
